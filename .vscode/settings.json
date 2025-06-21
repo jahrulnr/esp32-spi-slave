@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.twig": "twig",
+		"*.vcl": "bat",
+		"*.cf": "properties",
+		"condition_variable": "cpp"
+	}
+}
